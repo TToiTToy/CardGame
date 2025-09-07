@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f35d6687d508b42a567460c0c14f01, type: 3}
+  m_Name: Kinght
+  m_EditorClassIdentifier: 
+  cards:
+    Cardname: "\uAE30\uC0AC"
+    CharacterImage: {fileID: 7071404867673548843, guid: 2f377ffe712def249bb69a1fc1ede270, type: 3}
+    inGameCardImage: {fileID: 2100000, guid: fb0b39f20bd907343ac8bbd649e301f1, type: 2}
+    Character: {fileID: 4529059343571780428, guid: b6a8c013c43d0744c9b64aa3b9e5496f, type: 3}

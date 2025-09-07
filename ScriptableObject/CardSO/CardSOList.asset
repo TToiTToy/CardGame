@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3532b035af1e4a84facbeb0c51005011, type: 3}
+  m_Name: CardSOList
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 11400000, guid: 74543fe1f3e869d4abf47fdb65c668aa, type: 2}
+  - {fileID: 11400000, guid: 1e5db06518d1ea245b72c274bd6462d1, type: 2}
+  - {fileID: 11400000, guid: a6379c040ef66084a862bfdbcf79972b, type: 2}
+  - {fileID: 11400000, guid: 29334ee9dbeefc742a26e247bfd77a4d, type: 2}
+  - {fileID: 11400000, guid: eaf9c590e0c20d3499383b86aeaf699d, type: 2}
+  - {fileID: 11400000, guid: a2eb33085cf09bc4cb5a774dadb32e3c, type: 2}
+  - {fileID: 11400000, guid: 95be1dfdea615434fa83d1ad39bfb272, type: 2}
+  - {fileID: 11400000, guid: b45fbe8e04805a346b683b8bde706bc3, type: 2}
+  - {fileID: 11400000, guid: f63765fcebed687418a5a78332c6df04, type: 2}
+  - {fileID: 11400000, guid: 3cc3d0d3742cc7846875a642bcf52699, type: 2}

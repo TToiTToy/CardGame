@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23f0456f7a051234b937ad5f53e13dfb, type: 3}
+  m_Name: StageBackgrounds
+  m_EditorClassIdentifier: 
+  items:
+  - itemName: "\uAE30\uBCF8"
+    itemImage: {fileID: 7063627168998099427, guid: 64e1b52674ef3b4499e76e0e1ddc99ea, type: 3}
+    itemObject: {fileID: 7480185708034453183, guid: 35ce04637f0fe9d4b96946de76d79471, type: 3}
+  - itemName: "\uD574"
+    itemImage: {fileID: 7063627168998099427, guid: ca5d8ebad3262ee4e997d56f2c8bf863, type: 3}
+    itemObject: {fileID: 1109304300931890383, guid: e8f260ca312d50d449ed1da3543be4e7, type: 3}
+  - itemName: "\uCE7C"
+    itemImage: {fileID: 7063627168998099427, guid: 7781609badb35f74a93e252afb09bd41, type: 3}
+    itemObject: {fileID: 5179044372358165366, guid: dce36e57d787ba54aa2fe6eb0f7a155a, type: 3}
+  - itemName: "\uD65C"
+    itemImage: {fileID: 7063627168998099427, guid: 74a6f5b36c3db9240a846818f4c38b8b, type: 3}
+    itemObject: {fileID: 6018665353127504939, guid: db9b066e2b6fba14b85e3524a44b936b, type: 3}
+  - itemName: "\uBC29\uD328"
+    itemImage: {fileID: 7063627168998099427, guid: 91a5a141276a43948a657de5a2986844, type: 3}
+    itemObject: {fileID: 8517752110414072427, guid: f2a933fe8b079584f9f2d3f17bb6e1e5, type: 3}

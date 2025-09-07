@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f35d6687d508b42a567460c0c14f01, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  cards:
+    Cardname: "\uAD81\uC218"
+    CharacterImage: {fileID: 7071404867673548843, guid: fc90e822e1a78ac42b34807a980c60db, type: 3}
+    inGameCardImage: {fileID: 2100000, guid: 3c7b7825735bb9e429587aca3b2c8225, type: 2}
+    Character: {fileID: 8714529165549379656, guid: 9a0932f17af383c4890c9f2a23d8ecad, type: 3}

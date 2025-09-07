@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f35d6687d508b42a567460c0c14f01, type: 3}
+  m_Name: Warior
+  m_EditorClassIdentifier: 
+  cards:
+    Cardname: "\uC804\uC0AC"
+    CharacterImage: {fileID: 7071404867673548843, guid: 96f3f75b80ccef84f960dae9f4b1097a, type: 3}
+    inGameCardImage: {fileID: 2100000, guid: 1bbac3932c0651641b1dd424a129e3e0, type: 2}
+    Character: {fileID: 8354882362794876339, guid: 0f9d8e34e508c5643be67be088845f69, type: 3}
